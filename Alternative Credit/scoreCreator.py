@@ -1,1 +1,2 @@
-s
+import tkinter
+import random
