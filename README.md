@@ -11,6 +11,6 @@ implementing will range from 100-800. 800 being excellent and 100 being terrible
     -cell phone payments<br />
     -rent payments<br />
     
-  Each late payment will resort in subtracting points from their score and, on-time payments will add to their score. To make the scoring<br />
-  a but more simple, I will only be using two months worth of payments.<br />
+  Each late payment will resort in subtracting points from their score and, on-time payments will add to their score. To make the scoring   
+  system a bit more simple, I will only be using two months worth of payments.<br />
   P.S. I will give instructions on how to run the program after it is made :)
