@@ -13,4 +13,8 @@ implementing will range from 100-800. 800 being excellent and 100 being terrible
     
   Each late payment will resort in subtracting points from their score and, on-time payments will add to their score. <br />
     To make the scoring system a bit more simple, I will only be using two months worth of payments.<br />
-  P.S. I will give instructions on how to run the program after it is made :)
+# Instructions-
+First thing is to make sure that the database and the python file are in the same folder or the program won't run.<br />
+I also put the complete directory when connecting to the database in my code so change this to mirror the filepath that you have for your database. <br />
+After that run thr program in the terminal.(cd.... to get to the directory you put the file) To run it just type scoreCreator.py <br />
+after you are in the proper directory. Then a window will appear prompting you to push a button. Press the button and a person from the<br /> databse will get their score calculated.
