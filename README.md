@@ -17,4 +17,4 @@ implementing will range from 100-800. 800 being excellent and 100 being terrible
 First thing is to make sure that the database and the python file are in the same folder or the program won't run.<br />
 I also put the complete directory when connecting to the database in my code so change this to mirror the filepath that you have for your database. <br />
 After that run thr program in the terminal.(cd.... to get to the directory you put the file) To run it just type scoreCreator.py <br />
-after you are in the proper directory. Then a window will appear prompting you to push a button. Press the button and a <br /> person from the databse will get their score calculated.
+after you are in the proper directory. Then a window will appear prompting you to push a button. Press the button and a <br /> person from the databse will get their score calculated. P.S use databse that is outside of the folder
